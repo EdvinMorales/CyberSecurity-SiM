@@ -4,3 +4,5 @@ Keylogger Awareness (Team Project) - Led and collaborated with a team to develop
 
 Link:
 https://drive.google.com/file/d/1MhYpT4_3MMhOubcB6gD_I94WNEIMxBq5/view?usp=sharing
+
+Academy Pen Test(Sim3_PenTest.pdf) - Created observations and solution to Pen Test with in depth guide how attackers can compromise the network using tools like Metasploit, Meterpreter shell, Pass the Hash and Lateral movement
