@@ -8,3 +8,5 @@ https://drive.google.com/file/d/1MhYpT4_3MMhOubcB6gD_I94WNEIMxBq5/view?usp=shari
 Academy Pen Test(Sim3_PenTest.pdf) - Created observations and solution to Pen Test with in depth guide how attackers can compromise the network using tools like Metasploit, Meterpreter shell, Pass the Hash and Lateral movement
 
 Resolving Permissions Vulnerabilities(SIM_MockReport_EdvinM.pdf)- Lead the discovery of files with loose permissions. Compare files by hash and create a backup for further analysis
+
+Onboarding New Hires(SIM2_EM_Onbording (1).pdf)— Managed  new hires and roles of current department with a new GPO with the principle of least privilege 
